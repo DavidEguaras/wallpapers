@@ -1,6 +1,6 @@
 # Wallpapers
 
-Colección de 103 wallpapers. Haz clic en cualquiera para verlo a tamaño completo.
+Colección de 101 wallpapers. Haz clic en cualquiera para verlo a tamaño completo.
 
 <p align="center"><a href="a_black_and_white_drawing_of_a_robot_with_a_halo.png"><img src="a_black_and_white_drawing_of_a_robot_with_a_halo.png" width="100%" alt="a_black_and_white_drawing_of_a_robot_with_a_halo.png"></a><br><sub>a_black_and_white_drawing_of_a_robot_with_a_halo.png</sub></p>
 
@@ -39,8 +39,6 @@ Colección de 103 wallpapers. Haz clic en cualquiera para verlo a tamaño comple
 <p align="center"><a href="a_deer_overlooking_a_blue_lake.jpg"><img src="a_deer_overlooking_a_blue_lake.jpg" width="100%" alt="a_deer_overlooking_a_blue_lake.jpg"></a><br><sub>a_deer_overlooking_a_blue_lake.jpg</sub></p>
 
 <p align="center"><a href="a_dragon_flying_in_the_clouds.png"><img src="a_dragon_flying_in_the_clouds.png" width="100%" alt="a_dragon_flying_in_the_clouds.png"></a><br><sub>a_dragon_flying_in_the_clouds.png</sub></p>
-
-<p align="center"><a href="a_dragon_flying_in_the_clouds.webp"><img src="a_dragon_flying_in_the_clouds.webp" width="100%" alt="a_dragon_flying_in_the_clouds.webp"></a><br><sub>a_dragon_flying_in_the_clouds.webp</sub></p>
 
 <p align="center"><a href="a_drawing_of_a_hand.jpg"><img src="a_drawing_of_a_hand.jpg" width="100%" alt="a_drawing_of_a_hand.jpg"></a><br><sub>a_drawing_of_a_hand.jpg</sub></p>
 
@@ -119,8 +117,6 @@ Colección de 103 wallpapers. Haz clic en cualquiera para verlo a tamaño comple
 <p align="center"><a href="a_please_stay_on_trail_sign.jpg"><img src="a_please_stay_on_trail_sign.jpg" width="100%" alt="a_please_stay_on_trail_sign.jpg"></a><br><sub>a_please_stay_on_trail_sign.jpg</sub></p>
 
 <p align="center"><a href="a_pokemon_trainer_in_a_flower_field.png"><img src="a_pokemon_trainer_in_a_flower_field.png" width="100%" alt="a_pokemon_trainer_in_a_flower_field.png"></a><br><sub>a_pokemon_trainer_in_a_flower_field.png</sub></p>
-
-<p align="center"><a href="a_pokemon_trainer_in_a_flower_field_01.png"><img src="a_pokemon_trainer_in_a_flower_field_01.png" width="100%" alt="a_pokemon_trainer_in_a_flower_field_01.png"></a><br><sub>a_pokemon_trainer_in_a_flower_field_01.png</sub></p>
 
 <p align="center"><a href="a_purple_cube_with_a_black_circle_and_buttons.jpg"><img src="a_purple_cube_with_a_black_circle_and_buttons.jpg" width="100%" alt="a_purple_cube_with_a_black_circle_and_buttons.jpg"></a><br><sub>a_purple_cube_with_a_black_circle_and_buttons.jpg</sub></p>
 
